@@ -1,1 +1,7 @@
 poeticpenny/
+figure_templates/**/*.png
+figure_templates/**/*.eps
+figure_templates/**/*.pdf
+figure_templates/**/*.svg
+figure_templates/**/*.jpg
+figure_templates/**/*.jpeg
